@@ -36,6 +36,4 @@ Click here : [Hamster Kombat](https://t.me/hamSter_kombat_bot/start?startapp=ken
 Apa yang baru?
 - Auto Daily Combo Data
 - Auto CIPHER keyword
-## Screenshots
 
-![App Screenshot](https://i.ibb.co.com/pd4mYF5/Cuplikan-layar-2024-06-02-210351.png)
