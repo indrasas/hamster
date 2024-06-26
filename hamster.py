@@ -1,6 +1,3 @@
-# Made with ❤ by @adearman
-# Update at github.com/adearman/hamsterkombat
-# Free for use
 
 import requests
 import json
@@ -743,7 +740,7 @@ if auto_claim_daily_combo == 'y':
 
 def print_welcome_message():
     print(Fore.GREEN + Style.BRIGHT + "Hamster Kombat BOT!")
-    print(Fore.GREEN + Style.BRIGHT + "Update Link: https://github.com/adearman/hamsterkombat")
+    print(Fore.GREEN + Style.BRIGHT + "Update Link: https://github.com/indrasas/hamster")
 
 if __name__ == "__main__":
     main()
