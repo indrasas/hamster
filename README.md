@@ -13,6 +13,7 @@ GIVE STARS IF YOU LIKE IT :)
 Install with python
 
 ```bash
+  0. Click here : [Hamster Kombat](https://t.me/hamSter_kombat_bot/start?startapp=kentId540630596) Important!
   1. Download Python 3.10+
   2. Install Module (pip install requests colorama) / (pip3 install colorama)
   3. Buka Bot Hamster Kombat di PC (Telegram Desktop) atau di HP dengan Kiwi Browser
