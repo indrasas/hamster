@@ -18,9 +18,9 @@ Click here : [Hamster Kombat](https://t.me/hamSter_kombat_bot/start?startapp=ken
   1. Download Python 3.10+
   2. Install Module (pip install requests colorama) / (pip3 install colorama)
   3. Buka Bot Hamster Kombat di PC (Telegram Desktop) atau di HP dengan Kiwi Browser
-  4. Inspect Element > Application > Session Storage > Pilih Hamster Kombat > Ambil tgWebAppData
+  4. Inspect Element > Application > Session Storage > Pilih Hamster Kombat > Ambil content tgWebAppData
   5. Klik kanan lalu copy value (query_id=xxxx atau user=xx) paste di initdata.txt
-  6. py hamster.py
+  6. run : py hamster.py / sudo python hamster.py
 
 ```
 
